@@ -3,7 +3,7 @@ function calculateDiscount(price, perc){
     let finalAmt = price-disAmt; //9000-450 =8550
     return finalAmt
 }
- 
+
 // console.log(calculateDiscount(9000, 5))
 
 const prices = [9000, 200, 800, 3000, 10000, 7600];
